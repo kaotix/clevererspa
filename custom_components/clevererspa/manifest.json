@@ -1,0 +1,10 @@
+{
+    "codeowners": ["@kaotix"],
+    "config_flow": true,
+    "dependencies": [],
+    "domain": "clevererspa",
+    "iot_class": "cloud_polling",
+    "name": "ClevererSpa",
+    "requirements": ["pyrebase"],
+    "version": "0.1.0"
+  }
