@@ -1,0 +1,6 @@
+{
+  "name": "ClevererSpa",
+  "domains": ["binary_sensor", "sensor", "climate"],
+  "render_readme": true,
+  "iot_class": "cloud_polling"
+}
