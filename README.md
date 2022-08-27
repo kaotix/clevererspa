@@ -2,6 +2,11 @@
 
 This custom component integrates with the CleverSpa cloud API to allow control of your CleverSpa Hot Tub.
 
+<p float="left">
+  <img src="images/climate.png" width="250" />
+  <img src="images/diag.png" width="250" />
+</p>
+
 ## Acknowledgements
 
 * https://github.com/Wh1terat/cleverspa-component (Initial working CleverSpa integration that I used the authentication and API calls from)
